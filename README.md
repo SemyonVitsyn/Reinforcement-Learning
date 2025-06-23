@@ -7,7 +7,7 @@
 
 ## **Домашнее задание**
 
- 1) **CrossEntropyMethod** - Реализация нейросетевого кроссэнтропиного детода.
+ 1) **CrossEntropyMethod** - Реализация нейросетевого кроссэнтропийного метода.
 
  2) **MarkovDecisionProcess** - Value Iteration и Policy Iteration.
 
